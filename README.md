@@ -21,4 +21,4 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, custom/asides/fl
 
 # Screenshot
 
-![http://k.ernel.org/](http://www.g1u770ny.com/images/object.png)
+![http://k.ernel.org/](http://www.g1u770ny.com/images/object.jpg =640x826)
