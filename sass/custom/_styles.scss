@@ -36,7 +36,8 @@ html {
     margin: 0;
     section {
       width: auto; margin-left: 0;
-      &.odd, &.even { float: left; width: 33%; margin-left: 0; }
+      &.first, &.even { float: left; width: 50%; margin-left: 0; }
+	  .odd {float: left; width: 100%; margin-left: 0;}
     }
     .collapse-sidebar & {
       @include collapse-sidebar;
