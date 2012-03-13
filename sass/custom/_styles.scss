@@ -97,9 +97,13 @@ body > header {
 }
 
 body > nav {
-  border: {
+  border {
       top: 0;
       bottom: 1px solid $nav-border-bottom; }
+  form {
+	.search {
+	  width: 80%; }
+  }
 }
 
 body {
