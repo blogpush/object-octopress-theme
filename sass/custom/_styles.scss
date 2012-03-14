@@ -37,7 +37,7 @@ html {
     section {
       width: auto; margin-left: 0;
       &.first, &.even { float: left; width: 50%; margin-left: 0; }
-	  .odd {float: left; width: 100%; margin-left: 0;}
+	  &.last {float: left; width: 100%; margin-left: 0;}
     }
     .collapse-sidebar & {
       @include collapse-sidebar;
@@ -152,6 +152,7 @@ aside.sidebar {
 aside.sidebar {
   section {
     h1 {
+		text-align: left;
         border-bottom: 0;
     }
   }
