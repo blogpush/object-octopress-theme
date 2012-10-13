@@ -5,9 +5,7 @@
 # Install
 
 ```sh
-cd octopress/.theme
-git clone git://github.com/gluttony/object-octopress-theme.git object
-cd ..
+git submodule add https://github.com/gluttony/object-octopress-theme.git .themes/object
 rake install["object"]
 ```
 
