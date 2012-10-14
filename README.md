@@ -19,4 +19,4 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, custom/asides/fl
 
 # Screenshot
 
-![http://k.ernel.org/](https://raw.github.com/gluttony/object-octopress-theme/master/screenshot.jpg)
+![http://k.ernel.org/](https://raw.github.com/gluttony/object-octopress-theme/master/screenshot.png)
